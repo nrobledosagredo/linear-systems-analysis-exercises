@@ -1,4 +1,4 @@
-# Ejercicios de análisis de sistemas lineales
+# Linear systems analysis exercises
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -7,13 +7,13 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-Colección de ejercicios resueltos de análisis de sistemas lineales. Los ejercicios están enfocados en técnicas para el procesamiento de señales y la predicción de sistemas dinámicos, e incluyen:
+A collection of solved exercises on linear systems analysis. The exercises focus on signal processing techniques and dynamic systems prediction, including:
 
-1. **Análisis de señales usando la FFT**  
-   Se aplica la Transformada Rápida de Fourier (FFT) para analizar una señal ruidosa. El archivo `elefante-ruidoso` contiene los datos utilizados.
+1. **Signal analysis using FFT**  
+   The Fast Fourier Transform (FFT) is applied to analyze a noisy signal. The `elefante-ruidoso` file contains the data used.
 
-2. **Filtrado de señales en electrocardiogramas (ECG)**  
-   Se analiza una señal de ECG para estudiar el ciclo cardíaco y aplicar filtros para extraer información relevante de la señal.
+2. **Signal filtering in electrocardiograms (ECG)**  
+   An ECG signal is analyzed to study the cardiac cycle and apply filters to extract relevant information from the signal.
 
-3. **Predicción de una serie de tiempo caótica**  
-   Se entrena un modelo para predecir una serie de tiempo caótica generada a partir de la ecuación de Mackey-Glass.
+3. **Prediction of a chaotic time series**  
+   A model is trained to predict a chaotic time series generated from the Mackey-Glass equation.
