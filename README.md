@@ -7,13 +7,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-A collection of solved exercises on linear systems analysis. The exercises focus on signal processing techniques and dynamic systems prediction, including:
+## Overview
 
-1. **Signal analysis using FFT**  
-   The Fast Fourier Transform (FFT) is applied to analyze a noisy signal. The `elefante-ruidoso` file contains the data used.
+A collection of solved exercises on linear systems analysis. 
 
-2. **Signal filtering in electrocardiograms (ECG)**  
-   An ECG signal is analyzed to study the cardiac cycle and apply filters to extract relevant information from the signal.
+The exercises focus on signal processing techniques and dynamic systems prediction:
 
-3. **Prediction of a chaotic time series**  
-   A model is trained to predict a chaotic time series generated from the Mackey-Glass equation.
+1. **Signal analysis using FFT**: The Fast Fourier Transform (FFT) is applied to analyze a noisy signal. The `elefante-ruidoso` file contains the data used.
+2. **Signal filtering in electrocardiograms (ECG)**: An ECG signal is analyzed to study the cardiac cycle and apply filters to extract relevant information from the signal.
+3. **Prediction of a chaotic time series**: A model is trained to predict a chaotic time series generated from the Mackey-Glass equation.
